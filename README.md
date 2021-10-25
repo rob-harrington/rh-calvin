@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rh-calvin
-- 👀 I’m interested in ...
+- 👀 I’m interested in database-driven applications
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me ...
