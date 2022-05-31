@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @rh-calvin
-- 👀 I’m interested in database-driven applications
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on web applications
-- 📫 How to reach me ...
 
 <!---
 rh-calvin/rh-calvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
